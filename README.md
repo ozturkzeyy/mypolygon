@@ -1,6 +1,3 @@
-# mypolygon
-# Homework for MEG203
-
 import turtle
 cho = turtle.Turtle()
 
